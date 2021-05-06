@@ -3323,8 +3323,8 @@ var run = function() {
 
     addRule(defaultSelector + ' #game .btn {'
         + 'border-radius: 0px;'
-        + 'font-family: monospace;'
-        + 'font-size: 12px !important;'
+    //    + 'font-family: monospace;'
+    //    + 'font-size: 12px !important;'
         + 'margin: 0 5px 7px 0;'
         + 'width: 290px;'
         + '}');
